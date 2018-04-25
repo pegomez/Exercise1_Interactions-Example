@@ -15,3 +15,5 @@ The main intention of this document is to put the user in contact with the <stro
 <strong>Course</strong>: 2017-2018<br>
 <strong>Escuela Superior de Ingeniera Informática de Albacete<br></strong>
 <strong>Universidad de Castilla-La Mancha<br></strong>
+
+![Initial View of the Game](https://raw.githubusercontent.com/pegomez/Exercise1_Interactions-Example/master/Media%20Content/InitialView.png)
