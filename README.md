@@ -9,7 +9,13 @@ The main intention of this document is to put the user in contact with the <stro
   1. <strong>Break down one of the examples that are available in this Interaction System</strong>, describing it in a deep way. In our case, we will focus on the <strong>Throwables example</strong>.
   2. Once the example has been studied and split into smaller pieces of knowledge, we will <strong>create a very simple mini-game in which we are going to extend the functionality of the straightforward mentioned example</strong>.
   
-  If you want to execute the game, follow these instructions:
+  If you want to import the Unity package, follow these instructions:
+1. Create a new 3D project in Unity
+2. Click on <code>Assets/Import Package/Custom Package...</code> and select the downloaded Unity package.
+3. Go to Project Panel and then select <code>SteamVR/InteractionSystem/Samples/Scenes</code> and open <code>Interactions_Examples.unity</code>
+4. Play, explore and learn!😁
+  
+  If you want to directly execute the game, follow these instructions:
 1. <strong>Windows user</strong>: go to <code>Executable File/Windows/PedroCircusGame.zip</code>. Download it, unzip it and enjoy!
 2. <strong>Mac User</strong>: go to <code>Executable File/MacOS/PedroCircusGame.zip</code>. Download it, unzip it and enjoy!
 
