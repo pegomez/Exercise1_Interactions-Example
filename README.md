@@ -7,7 +7,11 @@
 The main intention of this document is to put the user in contact with the <strong>SteamVR Interaction System</strong>, which is included in the SteamVR asset package for Unity. This objective is intended to be tackled by developing two main tasks:
 
   1. <strong>Break down one of the examples that are available in this Interaction System</strong>, describing it in a deep way. In our case, we will focus on the <strong>Throwables example</strong>.
-  2. Once the example has been studied and split into smaller pieces of knowledge, we will <strong>create a very simple mini-game in which we are going to extend the functionality of the straightforward mentioned example</strong>. 
+  2. Once the example has been studied and split into smaller pieces of knowledge, we will <strong>create a very simple mini-game in which we are going to extend the functionality of the straightforward mentioned example</strong>.
+  
+  If you want to execute the game, follow these instructions:
+1. <strong>Windows user</strong>: go to <code>Executable File/Windows/PedroCircusGame.zip</code>. Download it, unzip it and enjoy!
+2. <strong>Mac User</strong>: go to <code>Executable File/MacOS/PedroCircusGame.zip</code>. Download it, unzip it and enjoy!
 
 <strong>Student</strong>: Pedro Gómez López<br>
 <strong>Professor</strong>: José Pascual Molina Massó<br>
@@ -17,3 +21,4 @@ The main intention of this document is to put the user in contact with the <stro
 <strong>Universidad de Castilla-La Mancha<br></strong>
 
 ![Initial View of the Game](https://raw.githubusercontent.com/pegomez/Exercise1_Interactions-Example/master/Media%20Content/InitialView.png)
+
